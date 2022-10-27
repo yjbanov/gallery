@@ -1,0 +1,16 @@
+{
+  "version": 3,
+  "engine": "v2",
+  "file": "main.dart.js_564.part.js",
+  "sourceRoot": "",
+  "sources": ["../../../../flutter/packages/flutter/lib/src/widgets/basic.dart","../../../../flutter/packages/flutter/lib/src/rendering/shifted_box.dart","../../../../engine/src/out/host_debug_unopt_arm64/flutter_web_sdk/lib/ui/geometry.dart","../../../../flutter/packages/flutter/lib/src/rendering/box.dart","../../../../flutter/packages/flutter/lib/src/rendering/object.dart"],
+  "names": ["OverflowBox","RenderConstrainedOverflowBox.minWidth","RenderConstrainedOverflowBox.maxWidth","RenderConstrainedOverflowBox.minHeight","RenderConstrainedOverflowBox.maxHeight","RenderConstrainedOverflowBox.sizedByParent","RenderConstrainedOverflowBox.computeDryLayout","BoxConstraints.biggest","RenderConstrainedOverflowBox.performLayout","RenderConstrainedOverflowBox._getInnerConstraints","OverflowBox.createRenderObject","RenderObject","RenderConstrainedOverflowBox","RenderShiftedBox","OverflowBox.updateRenderObject","biggest","","constrainWidth","constrainHeight","child","constraints","_getInnerConstraints","RenderAligningShiftedBox","_RenderShiftedBox&RenderBox&RenderObjectWithChildMixin","RenderBox","_layerHandle"],
+  "mappings": "A;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;MA+9FQA;;;;IAQJA,C;;;;;;;;;;;;;;;;gBC76EEC;cACEA;QACFA,MAIJA;UAFEA;MACAA;IACFA,C;gBAMIC;cACEA;QACFA,MAIJA;UAFEA;MACAA;IACFA,C;iBAMIC;cACEA;QACFA,MAIJA;UAFEA;MACAA;IACFA,C;iBAMIC;cACEA;QACFA,MAIJA;UAFEA;MACAA;IACFA,C;qBAYSC;MAAiBA,WAAIA;K;sBAGzBC;MACHA,OC1hBIC,WC0KGA,gCAAmBA,sBAAUA,YAO7BA,gCAAoBA,uBAAWA,YF0WxCD;K;mBAGKE;;kBG82FmBA;MH72FtBA;QEklDkDA,8BAAZA;kBFnmD1BA;;iBAAyBA;kBACzBA;;iBAAyBA;kBACxBA;4BAA0BA;kBAC1BA;QAeXA,2BE7hBEC;QF8hBFD;;IAEJA,C;;;wBDi5E6BE;MCr+E7BA;qDDw+EcA,gBACAA,gBACCA,iBACAA,iBAJAA,YAKmBA,yCItrBeC;MHtzDjDC;MA7gBOC;MDm/FLH,SAQFA;K;wBAGKI;MAAoFA;MAEnFA,gCAAYA;MACZA,kCAAWA;MACXA,kCAAWA;MACXA,mCAAYA;MACZA,mCAAYA;MACZA,+BAA+BA;IACrCA,C",
+  "x_org_dartlang_dart2js": {
+    "minified_names": {
+      "global": "",
+      "instance": ""
+    },
+    "frames": "qmGConBuBeAE/QDCW,AAAKCkE,AAAkBCmE,A;2FFoRrCC0C;0BACiCCuG;AAArBC+R;2BAAAAAAnBTLqD,A;iHDw6EAAuE;uHAAAAACt+ETAAA/QKAAA/PLAAAFaAAEw0CAAAC8/BoCSyB,A,A,A,A,A,AA5/BjDT2B,AHx0CAAAA8gBAA0B,A,A;"
+  }
+}

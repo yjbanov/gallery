@@ -1,0 +1,16 @@
+{
+  "version": 3,
+  "engine": "v2",
+  "file": "main.dart.js_548.part.js",
+  "sourceRoot": "",
+  "sources": ["../../../../../../.pub-cache/hosted/pub.dartlang.org/intl-0.17.0/lib/src/intl/date_format.dart"],
+  "names": ["DateFormat.yMMMMd","DateFormat","","dateTimeConstructor"],
+  "mappings": "A;;;;qBAkeEA;MAzNwBA,kCAAuBA;QAAmBA;MAyNlEA,sBA1M2CC;MATzCA;MAmNFD;IAAoDA,C",
+  "x_org_dartlang_dart2js": {
+    "minified_names": {
+      "global": "",
+      "instance": ""
+    },
+    "frames": "gcAkegCEmH;sBAAAAAA1MaC2D,A;AAhB3CDAA0NAAiC,A;"
+  }
+}

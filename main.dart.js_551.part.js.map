@@ -1,0 +1,16 @@
+{
+  "version": 3,
+  "engine": "v2",
+  "file": "main.dart.js_551.part.js",
+  "sourceRoot": "",
+  "sources": ["../../../../flutter/packages/flutter/lib/src/material/outlined_button.dart","../../../../flutter/packages/flutter/lib/src/material/material_state.dart","../../../../engine/src/out/host_debug_unopt_arm64/flutter_web_sdk/lib/ui/painting.dart","../../../../flutter/packages/flutter/lib/src/painting/borders.dart","../../../../flutter/packages/flutter/lib/src/material/outlined_button_theme.dart","../../../../flutter/packages/flutter/lib/src/material/button_style_button.dart"],
+  "names": ["OutlinedButton","OutlinedButton.styleFrom","ButtonStyleButton.allOrNull","_scaledPadding","OutlinedButton.defaultStyleOf","Color.withAlpha","Color.withOpacity","OutlinedButton.themeStyleOf","_OutlinedButtonDefaultColor.resolve","_OutlinedButtonDefaultOverlay.resolve","_OutlinedButtonDefaultMouseCursor.resolve","","allOrNull","withOpacity","withAlpha","red","of","green","blue"],
+  "mappings": "A;;;EAuEQA;;;IAYJA,C;4BA0DiBC;MAkCJA;;QAEqEA;;;MAsLpFA;MAnL8DA;;QAezCA;;QCwgBfC;;;QDpWND;;;MAgBAA;;QAzKiBA;;0BAhByCA;2BAAsBA;QA2MhFA;;MCkUMC;;;;;MD3gBJD,OAAOA,4JC2gBHC,8TDrfND;K;mBAsIiBE;MAKJA;MAJYA,2BAIMA;MAJ/BA,0CACQA,wBACAA,sBACAA,yCAGVA;K;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;oBA7CcC;MACoBA;;2BACQA;MAEzBA;sBAI8BA,UExQhBC;MAIdC;MF0QEF;MAIMA,wBAAYA,YAAYA,UElRlBC;MFsQvBD,iCAkJoBA,iBAFFA,mBA7IQA,0BAagBA,oCADDA,qCAdVA,WASXA,YADCA,sBAJAA,eASNA,8BG3QfA,iBDLSE,qECKTF,sBHmR2BA,2BAJJA,6BAXJA,UAAUA,kBAUNA;MAnB3BA,SA0BFA;K;kBAGaG;MACXA;MIpOyCA;MACPA;MJmOlCA,SInO8CA,oBJmOPA,MACzCA;K;;;aAoBOC;MACDA,0BAA8BA;QAChCA,WAAOA,SAGXA;MADEA,WAAOA,MACTA;K;;;aAUOC;MACLA;MAAIA,0BAA8BA;QEnUrBH,SFoUJG;QAAPA,4BExUyBJ,+BACEA,8BACDA,uBF4U9BI;;MAJMA,0BAA8BA,qBAAYA,sBAA8BA;QEtU/DH,SFuUJG;QAAPA,4BE3UyBJ,+BACEA,8BACDA,uBF4U9BI;;MADEA,WACFA;K;;;aAWYC;MACNA,0BAA8BA;QAChCA,WAAOA,eAGXA;MADEA,WAAOA,cACTA;K",
+  "x_org_dartlang_dart2js": {
+    "minified_names": {
+      "global": "",
+      "instance": ""
+    },
+    "frames": "ywCAmLQWoG;8KAIoBCAKtBwDD2K,A;ALuB1EAkI;AAGFAkJ;qHAGAA8G;AAG2BCAKhCiDD4H,A;ALoC/CCAKpC+CD4H,A;ALsCjDCAKtCiDDyH,A;ALwC/CCAKxC+CD2H,A;AL0C/CCAK1C+CD2H,A;mKLuCnDCAKvCmDDgG,A;AL4CrDCAK5CqDDsF,A;AL2CtDCAK3CsDDwI,A;m4DL6JrCEAE/PpCCAALkBCc,4E,A;qFF8QoBFAEzQtCCAALkBCc,A,A;iCFiQrBJoC;6LAYQAiB;AACiCEAEzQtCCqE,A;AFwQKHsB;+KAiBeKiH;SAAAAoB;iWAsClBHAE/TFCS,A;iDF+TEDAE/TFCAALkBC+B,AAAKE8B,AAAOCuB,A,A;kHFuU5BLAElUFCS,A;iDFkUEDAElUFCAALkBC+B,AAAKE8B,AAAOCuB,A,A;"
+  }
+}

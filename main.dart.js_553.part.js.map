@@ -1,0 +1,16 @@
+{
+  "version": 3,
+  "engine": "v2",
+  "file": "main.dart.js_553.part.js",
+  "sourceRoot": "",
+  "sources": ["../../../../../../.pub-cache/hosted/pub.dartlang.org/google_fonts-3.0.1/lib/google_fonts.dart","../../../../../../.pub-cache/hosted/pub.dartlang.org/google_fonts-3.0.1/lib/src/google_fonts_descriptor.dart"],
+  "names": ["GoogleFonts.robotoCondensed",""],
+  "mappings": "A;;;;+BA240HmBA;MAqBTA;MA6CNA,OAAOA,+HA7C4CA,yCAC3CA,0BCv40HVA,mGD840HUA,0BC940HVA,mGDq50HUA,0BCr50HVA,mGD450HUA,0BC550HVA,mGDm60HUA,0BCn60HVA,mGD060HUA,0BC160HVA,oND080HAA;K",
+  "x_org_dartlang_dart2js": {
+    "minified_names": {
+      "global": "",
+      "instance": ""
+    },
+    "frames": "wsBAo60HSCmG;0BAOAAmG;0BAOAAmG;0BAOAAmG;0BAOAAmG;0BAOAAoN;"
+  }
+}

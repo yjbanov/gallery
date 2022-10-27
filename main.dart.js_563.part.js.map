@@ -1,0 +1,16 @@
+{
+  "version": 3,
+  "engine": "v2",
+  "file": "main.dart.js_563.part.js",
+  "sourceRoot": "",
+  "sources": ["../../../../flutter/packages/flutter/lib/src/widgets/basic.dart","../../../../flutter/packages/flutter/lib/src/rendering/stack.dart","../../../../flutter/packages/flutter/lib/src/rendering/object.dart","../../../../flutter/packages/flutter/lib/src/foundation/diagnostics.dart","../../../../flutter/packages/flutter/lib/src/rendering/box.dart"],
+  "names": ["IndexedStack","RenderIndexedStack.visitChildrenForSemantics","RenderIndexedStack._childAtIndex","RenderIndexedStack.hitTestChildren","RenderIndexedStack.paintStack","RenderIndexedStack.debugDescribeChildren","DiagnosticableTreeMixin.toDiagnosticsNode","IndexedStack.createRenderObject","RenderStack","RenderObject","RenderIndexedStack","IndexedStack.updateRenderObject","RenderIndexedStack.hitTestChildren.<anonymous function>","index","firstChild","toDiagnosticsNode","","_clipRectLayer","_RenderStack&RenderBox&ContainerRenderObjectMixin&RenderBoxContainerDefaultsMixin","_RenderStack&RenderBox&ContainerRenderObjectMixin","RenderBox","_layerHandle"],
+  "mappings": "A;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;MA82HEA;;;yDAQgBA,cAJRA,wBAJRA;IAQuBA,C;;;;;;;;;;;;;;;;;+BCpqGlBC;cAOaA,8BC4lGWA;QDjmGzBA,eAAQA;IAEZA,C;mBAYUC;;oBCmlGmBA;;iBD5lGXA;;MAahBA;;YAAiCA;UAATA;;UAAxBA;;;kBACgDA;UAAUA;QAAEA,kBAClCA;QACxBA;;WAIUA;MAAZA,YACFA;K;8BAGKC;MACHA;cCmkG2BA,uDD5lGXA;QA0BdA,YAaJA;MAV0BA;gBACsBA;QAAUA;MAAEA;MAC1DA,OAAOA,oDAGIA,yEAFeA,kBAO5BA;K;gBAGKC;MACHA;cCijG2BA,uDD5lGXA;QA4CdA,MAKJA;MAH0BA;gBACsBA;QAAUA;MACxDA,4BAD0DA,6BAChBA,QAAOA;IACnDA,C;2BASsBC;MACoCA;;oBCiiG7BA;8CD9hG3BA;QAEmBA;uBAhEHA,kBAiE6BA;QAF3CA,cE2pEJC;kBFvpEmBD;UAAUA;QAAEA,kBAAoBA;;MAGjDA,eACFA;K;;;wBD4lGmBE;MAOgCA;;MC3rGnDA,mCDurGWA,aAGIA,qBAFPA,WACUA,eChuGgCC,iCC8rDDC;MDvpDjDC;MA7VEF;MDmhHAD,SAOFA;K;wBAGKI;;kBAGSA;sBC/qGRA;oBACFA;QACAA;;MD8qGEA,0BAAMA;MACNA,mCAAeA;MACfA,gCAAYA;MACoCA;MAAhDA;IACNA,C;;;ECnpGaC;UAFAA;MAEPA,WAAOA,8CACRA;K",
+  "x_org_dartlang_dart2js": {
+    "minified_names": {
+      "global": "",
+      "instance": ""
+    },
+    "frames": "0rFCmtBQa8B;AAAiBCyD;yGAiBFA8F;AAESDqC;kbAYxBCuD;AAAsBDgC;qXAkBtBCuD;AAAsBDgC;kVAkBJCuF;oEAINDkB;sDAFDEAE4qFRC6F,A;8RH0bAAmC;4DAAAAACtrGTAAAvCkDCiC,AAnUlDDAAPIAAAAAAAG0gCSAAF8/BoCKyB,A,A,A,A,A,AA5/BjDL2B,ADrgCAAAA0WAA4B,A,A;4IDmsGMHyH;"
+  }
+}
